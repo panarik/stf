@@ -211,7 +211,7 @@ stf local --public-ip <your_internal_network_ip_here>
 You can try STF in one single mashine instantly.
 
 Requirements:
-- Linux OS (not working on arm images)
+- Linux OS based on amd64 images (not working on arm images)
 - Docker-compose
 
 Steps:
